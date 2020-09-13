@@ -16,3 +16,16 @@
     flex-direction: column;
     
 }
+
+@media (min-width: 1900px){
+    .Content{
+        height: 17%;
+    }
+}
+
+@media (min-width: 2040px){
+    .Content{
+        height: 15%;
+        width: 21%;
+    }
+}
