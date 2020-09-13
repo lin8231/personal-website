@@ -10,6 +10,7 @@ import githubIcon from '../../assets/github.svg';
 import linkedinIcon from '../../assets/linkedin.svg';
 import resumeIcon from '../../assets/resume.svg';
 import emailIcon from '../../assets/email.svg';
+import cv from '../../assets/mercury-lin-cv.pdf';
 
 const IconList = props => {
 
@@ -25,22 +26,22 @@ const IconList = props => {
             <img src={resumeIcon} alt="" className={classes.Icon}/>
             <img src={emailIcon} alt="" className={classes.Icon}/> */}
 
-            <a href="https://www.google.co.nz"
+            <a href="https://github.com/lin8231"
                 className={classes.IconContainer}
                 target="_blank">
                 <img src={githubIcon} alt="" className={classes.Icon} />
             </a>
-            <a href="https://www.google.co.nz"
+            <a href="https://www.linkedin.com/in/mercury-jiaru-lin-a79a5b1a4/"
                 className={classes.IconContainer}
                 target="_blank">
                 <img src={linkedinIcon} alt="" className={classes.Icon} />
             </a>
-            <a href="https://www.google.co.nz"
+            <a href={cv} download
                 className={classes.IconContainer}
                 target="_blank">
                 <img src={resumeIcon} alt="" className={classes.Icon} />
             </a>
-            <a href="https://www.google.co.nz"
+            <a href="mailto:lin8231@outlook.com"
                 className={classes.IconContainer}
                 target="_blank">
                 <img src={emailIcon} alt="" className={classes.Icon} />
