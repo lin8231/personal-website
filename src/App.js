@@ -1,4 +1,3 @@
-import classes from '*.module.css';
 import React from 'react';
 import './App.css';
 import MainPage from './MainPage/MainPage';

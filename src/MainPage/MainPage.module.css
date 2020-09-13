@@ -1,0 +1,17 @@
+.Container{
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+
+.Content{
+    height: 25%;
+    width: 25%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /* background-color: white; */
+    display: flex;
+    flex-direction: column;
+}
