@@ -11,4 +11,10 @@
 
 .Icon{
     height: 80%;
+    transition: transform 0.2s;
+    cursor: pointer;
+}
+
+.Icon:hover{
+    transform: scale(1.5);
 }

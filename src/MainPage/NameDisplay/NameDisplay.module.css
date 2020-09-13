@@ -1,6 +1,17 @@
 .Container{
     height: 50%;
     width: 100%;
-    background-color: bisque;
-
+    /* background-color: bisque; */
+    /* position: relative; */
+    
 }
+
+.Name{
+    margin: auto;
+    font-size: 1.7em;
+    /* text-align: center; */
+    /* padding-bottom: 2%; */
+    text-transform: uppercase;
+    font-weight: 300;
+    letter-spacing: 8px;
+  }

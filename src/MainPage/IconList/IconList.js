@@ -3,8 +3,8 @@ import classes from './IconList.module.css';
 
 import githubIcon from '../../assets/github.svg';
 import linkedinIcon from '../../assets/linkedin.svg';
-import resumeIcon from '../../assets/file.svg';
-import emailIcon from '../../assets/mail2.svg';
+import resumeIcon from '../../assets/resume.svg';
+import emailIcon from '../../assets/email.svg';
 
 const IconList = props =>{
 
