@@ -1,12 +1,11 @@
-.Container{
+.Container {
     height: 50%;
     width: 100%;
     /* background-color: bisque; */
     /* position: relative; */
-    
 }
 
-.Name{
+.Name {
     margin: auto;
     font-size: 1.7em;
     /* text-align: center; */
@@ -14,4 +13,12 @@
     text-transform: uppercase;
     font-weight: 300;
     letter-spacing: 8px;
-  }
+    -webkit-user-select: none;
+    /* Safari */
+    -moz-user-select: none;
+    /* Firefox */
+    -ms-user-select: none;
+    /* IE10+/Edge */
+    user-select: none;
+    /* Standard */
+}
