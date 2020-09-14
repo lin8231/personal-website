@@ -1,1 +1,1 @@
-[merc.dev](merc.dev)
+[merc.dev](https://merc.dev)
