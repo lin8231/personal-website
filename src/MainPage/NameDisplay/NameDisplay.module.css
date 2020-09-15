@@ -33,7 +33,7 @@
     }
 }
 
-@media (max-aspect-ratio: 4/7){
+@media (max-aspect-ratio: 5/7){
     .Name{
         font-size: 6.5vw;
         letter-spacing: 6px;

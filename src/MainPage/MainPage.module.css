@@ -33,7 +33,7 @@
     }
 }
 
-@media (max-aspect-ratio: 4/7){
+@media (max-aspect-ratio: 5/7){
     .Content{
         width: 70vw;
         height: calc(70vw/2.5);
