@@ -1,25 +1,11 @@
 .Container {
     height: 50%;
     width: 100%;
-    /* background-color: bisque; */
-    /* position: relative; */
-    -webkit-text-size-adjust: none;
-    -ms-text-size-adjust: none;
-    -moz-text-size-adjust: none;
-    text-size-adjust: none;
-    overflow: hidden;
-    
 }
 
 .Name {
-    /* padding-top: 0%; */
-    /* width: 80%; */
-    /* margin-top: 3%; */
     margin: auto;
     font-size: 1.7vw;
-    /* text-align: center; */
-    /* white-space: nowrap; */
-    /* padding-bottom: 2%; */
     text-transform: uppercase;
     font-weight: 300;
     letter-spacing: 8px;
@@ -31,25 +17,16 @@
     /* IE10+/Edge */
     user-select: none;
     /* Standard */
-    /* background-color: beige; */
-    -webkit-text-size-adjust: none;
-    -ms-text-size-adjust: none;
-    -moz-text-size-adjust: none;
-    text-size-adjust: none;
 }
 
 @media (max-aspect-ratio: 1/1){
     .Name{
-        /* background-color: red; */
         letter-spacing: 5px;
-
     }
 }
 
 @media (max-aspect-ratio: 5/9){
     .Name{
-        /* background-color: blue; */
         letter-spacing: 3px;
-
     }
 }
