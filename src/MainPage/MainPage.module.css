@@ -20,22 +20,22 @@
 
 @media (max-aspect-ratio: 7/5){
     .Content{
-        width: 27vw;
-        height: calc(27vw/2.5);
+        width: 30vw;
+        height: calc(30vw/2.5);
     }
 }
 
 
 @media (max-aspect-ratio: 1/1){
     .Content{
-        width: 30vw;
-        height: calc(30vw/2.5);
+        width: 40vw;
+        height: calc(40vw/2.5);
     }
 }
 
 @media (max-aspect-ratio: 4/7){
     .Content{
-        width: 45vw;
-        height: calc(45vw/2.5);
+        width: 70vw;
+        height: calc(70vw/2.5);
     }
 }
