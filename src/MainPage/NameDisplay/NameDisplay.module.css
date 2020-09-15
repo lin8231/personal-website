@@ -8,7 +8,7 @@
     font-size: 1.7vw;
     text-transform: uppercase;
     font-weight: 300;
-    letter-spacing: 8px;
+    letter-spacing: 10px;
     -webkit-user-select: none;
     /* Safari */
     -moz-user-select: none;
@@ -19,14 +19,22 @@
     /* Standard */
 }
 
-@media (max-aspect-ratio: 1/1){
+@media (max-aspect-ratio: 7/5){
     .Name{
+        font-size: 2vw;
         letter-spacing: 5px;
     }
 }
 
-@media (max-aspect-ratio: 5/9){
+@media (max-aspect-ratio: 1/1){
     .Name{
+        font-size: 3vw;
         letter-spacing: 3px;
+    }
+}
+
+@media (max-aspect-ratio: 4/7){
+    .Name{
+        font-size: 4vw;
     }
 }
