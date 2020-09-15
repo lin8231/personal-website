@@ -7,11 +7,13 @@
     flex-wrap: nowrap;
     justify-content: space-between;
     align-items: center;
-
+    background-color: antiquewhite;
+    
 }
 
 .IconContainer{
     height: 80%;
+    max-width: 15%;
     cursor: pointer;
     -webkit-user-drag: none;
     -khtml-user-drag: none;
@@ -21,6 +23,7 @@
 
 .Icon {
     height: 100%;
+    max-width: 100%;
     transition: transform 0.2s;
     /* pointer-events: none; */
     -webkit-user-drag: none;
