@@ -12,7 +12,7 @@
 }
 
 .Name {
-    padding-top: 5%;
+    /* padding-top: 0%; */
     /* width: 80%; */
     /* margin-top: 3%; */
     margin: auto;
@@ -31,7 +31,7 @@
     /* IE10+/Edge */
     user-select: none;
     /* Standard */
-    background-color: beige;
+    /* background-color: beige; */
     -webkit-text-size-adjust: none;
     -ms-text-size-adjust: none;
     -moz-text-size-adjust: none;

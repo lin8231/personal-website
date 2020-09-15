@@ -18,7 +18,7 @@
     flex-wrap: nowrap;
     justify-content: center;
     align-items: center;
-    background-color: aliceblue;
+    /* background-color: aliceblue; */
 }
 
 @media (min-width: 1900px){
