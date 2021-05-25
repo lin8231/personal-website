@@ -28,7 +28,7 @@ const IconList = (props) => {
         <img src={githubIcon} alt="" className={classes.Icon} />
       </a>
       <a
-        href="https://www.linkedin.com/in/mercury-lin/"
+        href="https://www.linkedin.com/in/mercurylin/"
         className={classes.IconContainer}
         target="_blank"
         rel="noopener noreferrer"
